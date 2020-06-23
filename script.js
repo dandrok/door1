@@ -36,11 +36,6 @@ const isClicked = (door) => {
     }
 }
 
-
-
-
-
-// MVP - If/Else Generator (3 possible combinations)
 const randomChoreDoorGenerator = () => {
     choreDoor = Math.floor(Math.random() * numClosedDoors);
     if (choreDoor === 0) {
@@ -57,8 +52,6 @@ const randomChoreDoorGenerator = () => {
       openDoor2 = spaceDoorPath;
     }
   }
-
-
 
 // door1 click img
 doorImage1.onclick = () => {
