@@ -1,6 +1,6 @@
 # Game "Door"
 A small project while learning javascript
-
+[DEMO](https://dandrok.github.io/door1/)
 
 ## Instructions 
 -	Hiding behind one of these doors is the ChoreBot.
